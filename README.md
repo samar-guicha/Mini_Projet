@@ -6,7 +6,7 @@ Dans ce projet on va utiliser diverses techniques de manipulation des données p
 
 La base de données comprend des données sur chaque ensemble LEGO qui a déjà été vendu; les noms des ensembles, quelles briques ils contiennent, quelle couleur les briques sont, etc.</p>
 
-<p><img src="https://s3.amazonaws.com/assets.datacamp.com/production/project_10/datasets/lego-bricks.jpeg" alt="lego"></p>
+<img src="https://s3.amazonaws.com/assets.datacamp.com/production/project_10/datasets/lego-bricks.jpeg" alt="lego"></p>
 
 
 ## A propos de dataset
@@ -17,7 +17,7 @@ Schéma de la base de données Lego <br>
 
 
 
-| Dataset | Description | Columns |
+| Dataset | Description | colonnes |
 |--|--|--|
 | `colors.csv` | Ce fichier contient des informations sur les couleurs LEGO, y compris un identifiant unique pour chaque couleur, son nom, et la valeur RVB approximative, et si elle est transparente | `id` Identifiant unique pour cette couleur. <br><br>`name` Le nom de la couleur. <br><br> `rgb` La couleur RVB approximative. <br><br> `is_trans` Que la couleur donnée soit transparente/translucide ou non.|
 | `inventories.csv` | Ce tableau contient des informations sur les inventaires, y compris un identifiant unique, sa version et le numéro d’ensemble. | `id` Identifiant unique pour cette saisie d’inventaire.<br><br> `version` numéro de version. <br><br> `set_num` Set number (de `sets.csv`). |
