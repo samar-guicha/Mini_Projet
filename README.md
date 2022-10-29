@@ -31,7 +31,9 @@ Schéma de la base de données Lego <br><br>
 
 
 <br>
+
 ## Colors dataset
+
 ```python
 colors = pd.read_csv('datasets/colors.csv')
 display(colors.head())
@@ -48,10 +50,12 @@ display(colors.head())
 <br>
 <p>Il serait intéressant d’explorer la distribution des couleurs transparentes par rapport aux couleurs non transparentes.</p>
 
-<p><img src='img/1.png' alt="image1"></p>
+<img src='./img/1.png' alt="image1">
 
 <hr>
+
 ## Sets dataset
+
 <br>
 
 ```python
@@ -69,11 +73,11 @@ display(sets.head())
 
 <p>Voyons comment le nombre d’ensembles a changé au fil des ans</p>
 
-<p><img src='img/2.png' alt="image2"></p>
+<p><img src='./img/2.png' alt="image2"></p>
 
 
 <br>
 
 <p>Observons également l’évolution des thèmes au fil des ans</p>
 
-<p><img src='../img/3.png' alt="image3"></p>
+<p><img src='./img/3.png' alt="image3"></p>
