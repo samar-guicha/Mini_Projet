@@ -48,7 +48,7 @@ display(colors.head())
 <br>
 <p>Il serait intéressant d’explorer la distribution des couleurs transparentes par rapport aux couleurs non transparentes.</p>
 
-<img src='img/1.png' alt="image">
+<p><img src='img/1.png' alt="image"></p>
 
 <hr>
 ## Sets dataset
@@ -69,11 +69,11 @@ display(sets.head())
 
 <p>Voyons comment le nombre d’ensembles a changé au fil des ans</p>
 
-<img src='img/2.png' alt="image">
+<p><img src='img/2.png' alt="image"></p>
 
 
 <br>
 
 <p>Observons également l’évolution des thèmes au fil des ans</p>
 
-<img src='img/3.png' alt="image">
+<p><img src='img/3.png' alt="image"></p>
