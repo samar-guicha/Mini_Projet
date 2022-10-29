@@ -6,7 +6,7 @@ Dans ce projet on va utiliser diverses techniques de manipulation des données p
 
 La base de données comprend des données sur chaque ensemble LEGO qui a déjà été vendu; les noms des ensembles, quelles briques ils contiennent, quelle couleur les briques sont, etc.</p>
 
-<img src="https://s3.amazonaws.com/assets.datacamp.com/production/project_10/datasets/lego-bricks.jpeg" alt="lego"></p>
+<p><img src="img/lego-bricks.jpeg" alt="lego"></p>
 
 
 ## A propos de dataset
