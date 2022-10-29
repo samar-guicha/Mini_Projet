@@ -1,7 +1,8 @@
 # :mortar_board:Mini_Projet
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samar-guicha/Mini_Projet/main?filepath=notebook.ipynb)
 
-* ![pandas]
+
+* [![pandas][pandas.js]][pandas-url]
 * ![numpy]
 * ![matplotlib]
 * ![ipython]
@@ -88,7 +89,8 @@ display(sets.head())
 
 <p><img src="img/3.jpeg" alt="image3"></p>
 
-[pandas]: https://img.shields.io/badge/pandas-1.4.3-blue
+[pandas.js]: https://img.shields.io/badge/pandas-1.4.3-blue
+[pandas-url]: https://pandas.pydata.org/
 [numpy]: https://img.shields.io/badge/numpy-1.23.2-blue
 [matplotlib]: https://img.shields.io/badge/matplotlib-3.5.3-blue
 [ipython]: https://img.shields.io/badge/ipython-8.4.0-blue
