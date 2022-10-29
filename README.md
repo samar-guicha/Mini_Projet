@@ -1,6 +1,12 @@
-# Mini_Projet
+# :mortar_board:Mini_Projet
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samar-guicha/Mini_Projet/main?filepath=notebook.ipynb)
-## Introduction
+
+* ![pandas]
+* ![numpy]
+* ![matplotlib]
+* ![ipython]
+  
+## :file_folder: Introduction
 <p>
 Dans ce projet on va utiliser diverses techniques de manipulation des données pour explorer différents aspects de l’histoire de Lego.
 
@@ -9,7 +15,7 @@ La base de données comprend des données sur chaque ensemble LEGO qui a déjà 
 <p><img src="img/lego-bricks.jpeg" alt="lego"></p>
 
 
-## A propos de dataset
+## :file_folder: A propos de dataset
 Schéma de la base de données Lego <br><br>
 ![schema](https://rebrickable.com/static/img/diagrams/downloads_schema_v3.png)
 
@@ -32,7 +38,7 @@ Schéma de la base de données Lego <br><br>
 
 <br>
 
-## Colors dataset
+## :file_folder: Colors dataset
 
 ```python
 colors = pd.read_csv('datasets/colors.csv')
@@ -50,11 +56,11 @@ display(colors.head())
 <br>
 <p>Il serait intéressant d’explorer la distribution des couleurs transparentes par rapport aux couleurs non transparentes.</p>
 
-<img src='./img/1.png' alt="image1">
+<p><img src="img/1.jpeg" alt="image1"></p>
 
 <hr>
 
-## Sets dataset
+## :file_folder: Sets dataset
 
 <br>
 
@@ -73,11 +79,16 @@ display(sets.head())
 
 <p>Voyons comment le nombre d’ensembles a changé au fil des ans</p>
 
-<p><img src='./img/2.png' alt="image2"></p>
+<p><img src="img/2.jpeg" alt="image2"></p>
 
 
 <br>
 
 <p>Observons également l’évolution des thèmes au fil des ans</p>
 
-<p><img src='./img/3.png' alt="image3"></p>
+<p><img src="img/3.jpeg" alt="image3"></p>
+
+[pandas]: https://img.shields.io/badge/pandas-1.4.3-blue
+[numpy]: https://img.shields.io/badge/numpy-1.23.2-blue
+[matplotlib]: https://img.shields.io/badge/matplotlib-3.5.3-blue
+[ipython]: https://img.shields.io/badge/ipython-8.4.0-blue
