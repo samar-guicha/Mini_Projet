@@ -10,7 +10,7 @@ La base de données comprend des données sur chaque ensemble LEGO qui a déjà 
 
 
 ## A propos de dataset
-Schéma de la base de données Lego <br>
+Schéma de la base de données Lego <br><br>
 ![schema](https://rebrickable.com/static/img/diagrams/downloads_schema_v3.png)
 
 <br><br>
@@ -48,7 +48,7 @@ display(colors.head())
 <br>
 <p>Il serait intéressant d’explorer la distribution des couleurs transparentes par rapport aux couleurs non transparentes.</p>
 
-<p><img src='img/1.png' alt="image"></p>
+<p><img src='img/1.png' alt="image1"></p>
 
 <hr>
 ## Sets dataset
@@ -69,11 +69,11 @@ display(sets.head())
 
 <p>Voyons comment le nombre d’ensembles a changé au fil des ans</p>
 
-<p><img src='img/2.png' alt="image"></p>
+<p><img src='img/2.png' alt="image2"></p>
 
 
 <br>
 
 <p>Observons également l’évolution des thèmes au fil des ans</p>
 
-<p><img src='img/3.png' alt="image"></p>
+<p><img src='../img/3.png' alt="image3"></p>
