@@ -13,7 +13,7 @@ Dans ce projet on va utiliser diverses techniques de manipulation des données p
 
 La base de données comprend des données sur chaque ensemble LEGO qui a déjà été vendu; les noms des ensembles, quelles briques ils contiennent, quelle couleur les briques sont, etc.</p>
 
-<p><img src="img/lego.jpeg" alt="lego"></p>
+<p><img src="img/Lego.jpeg" alt="lego"></p>
 
 
 ## :file_folder: A propos de dataset
